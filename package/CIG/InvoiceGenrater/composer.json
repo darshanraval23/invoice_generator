@@ -1,0 +1,10 @@
+{
+    "name": "cig/invoicegenrater",
+    "description": "A invoicegenrater packages for laravel",
+    "autoload": {
+        "psr-4": {
+            "Cig\\Invoicegenrater\\": "src/"
+        }
+    },
+    "require": {}
+}
